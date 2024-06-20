@@ -1,6 +1,6 @@
 # Mental-Health-Chatbot
 Project Overview:
-This project involves the development of a mental health chatbot, fine-tuned using a custom dataset specifically curated to address various mental health queries and concerns. The goal is to provide users with a supportive and informative conversational agent that can help them navigate mental health challenges.
+> This project involves the development of a mental health chatbot, fine-tuned using a custom dataset specifically curated to address various mental health queries and concerns. The goal is to provide users with a supportive and informative conversational agent that can help them navigate mental health challenges.
 
 Features:
 > Customized Responses: Tailored responses based on a dataset designed to address a wide range of mental health topics.
