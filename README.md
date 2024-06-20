@@ -7,8 +7,8 @@ Features:
 > Supportive Interactions: Engages users in a supportive and non-judgmental manner.
 > Resource Recommendations: Provides users with relevant resources and coping strategies.
 
-Development Process
-The chatbot was developed using transfer learning techniques by fine-tuning a pre-trained model. The fine-tuning was performed on Google Colab utilizing a T4 GPU for accelerated training.
+Development Process:
+> The chatbot was developed using transfer learning techniques by fine-tuning a pre-trained model. The fine-tuning was performed on Google Colab utilizing a T4 GPU for accelerated training.
 
 Constraints and Challenges
 > Connectivity Issues: Frequent disconnections from Google Colab during training sessions posed significant challenges. Each disconnection often required restarting the training process, leading to increased development time and complexity.
