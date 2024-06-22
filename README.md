@@ -14,3 +14,6 @@ Constraints and Challenges
 > Connectivity Issues: Frequent disconnections from Google Colab during training sessions posed significant challenges. Each disconnection often required restarting the training process, leading to increased development time and complexity.
 > Resource Limitations: Limited computational resources and session time constraints on Google Colab necessitated careful management of training parameters and iterative tuning processes.
 > Data Handling: Ensuring the dataset was comprehensive and representative of diverse mental health issues while maintaining data privacy and ethical standards.
+
+Deployed Model:
+https://huggingface.co/PardhivKrishna/Mental_Health_Chatbot
